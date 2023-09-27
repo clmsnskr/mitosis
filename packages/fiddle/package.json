@@ -61,7 +61,7 @@
     "monaco-editor-webpack-plugin": "^2.0.0",
     "monaco-jsx-highlighter": "0.0.15",
     "monaco-themes": "^0.3.3",
-    "npm": "^6.14.8",
+    "npm": "^10.1.0",
     "optimize-css-assets-webpack-plugin": "5.0.4",
     "patch-package": "^6.2.2",
     "pnp-webpack-plugin": "1.6.4",
