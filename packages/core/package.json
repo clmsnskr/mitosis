@@ -61,7 +61,7 @@
     "@rollup/plugin-virtual": "^2.0.3",
     "@types/fs-extra-promise": "^1.0.9",
     "acorn": "^8.3.0",
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "axios-cache-adapter": "^2.5.0",
     "chalk": "^4.1.0",
     "csstype": "^3.0.4",
